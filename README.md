@@ -6,3 +6,4 @@ Product for the subject "Introduction to programming" by Albeiro Muriel to evalu
 1. Time taken: 1 hour and a half.
 
 ![Screenshot_1](https://github.com/andresha20/cesde-introduction-to-programming-3/assets/80694673/6c0b342d-faa9-4c96-b09f-59726067e1ce)
+![Screenshot_2](https://github.com/andresha20/cesde-introduction-to-programming-3/assets/80694673/be2e352d-bdc8-4d99-b34f-7cddb36eb7c1)
